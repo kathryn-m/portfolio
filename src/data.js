@@ -5,8 +5,8 @@ export default [
 		title: "Memory card game",
 		description: "The famous card game re-created with three levels of difficulty and three deck sizes. Your choice of English or French. Can you beat the computer?",
 		proglang: `JavaScript CSS HTML`,
-		code: "https://github.com/kathryn-m/memory-test",
-		url: "https://kathryn-m.github.io/memory-test/",
+		code: "https://github.com/kathryn-m/memory-game",
+		url: "https://kathryn-m.github.io/memory-game/",
 		image_webp: "/img/memory.webp" ,
 		image: "/img/memory.png" ,
 		alt: "memory card game"
