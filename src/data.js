@@ -89,7 +89,7 @@ export default [
 		title: "Portfolio",
 		description: "Examples of complete projects and components by Kathryn M." ,
 		proglang: "React",
-		code: "#",
+		code: "https://github.com/kathryn-m/portfolio",
 		url: "#",
 		image_webp: "/img/portfolio.webp" ,
 		image: "/img/portfolio.png",
