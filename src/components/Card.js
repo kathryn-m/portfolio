@@ -10,7 +10,7 @@ export default function Card (props){
 		<div className='card'>
 			<a className="card-image" href={props.url} target="_blank" rel="noreferrer">
 				<picture>
-		{/* <source srcSet={process.env.PUBLIC_URL + props.image_webp} type="image/webp" /> */}
+		 			<source srcSet={process.env.PUBLIC_URL + props.image_webp} type="image/webp" />
 					<img className="image" src={process.env.PUBLIC_URL + props.image} alt={props.alt}/>
 				</picture>
 			</a>
