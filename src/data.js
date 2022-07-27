@@ -76,14 +76,14 @@ export default [
 	{
 		id:7,
 		role: "project",
-		title: "Port-feuille",
+		title: "Portfolio",
 		description: "Des exemples des projets entièrs et des composants par Kathryn M." ,
 		proglang: "React",
 		code: "https://github.com/kathryn-m/portfolio",
 		url: "#",
 		image_webp: "/img/portfolio_fr.webp" ,
 		image: "/img/portfolio_fr.png",
-		alt: "Le site web port-feuille que vous naviguez actuellement"
+		alt: "Le site web portfolio que vous naviguez actuellement"
 	},
 
 ]
