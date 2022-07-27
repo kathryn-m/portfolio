@@ -81,8 +81,8 @@ export default [
 		proglang: "React",
 		code: "https://github.com/kathryn-m/portfolio",
 		url: "#",
-		image_webp: "/img/portfolio_fr.webp" ,
-		image: "/img/portfolio_fr.png",
+		image_webp: "/img/portfolio_fr2.webp" ,
+		image: "/img/portfolio_fr2.png",
 		alt: "Le site web portfolio que vous naviguez actuellement"
 	},
 
