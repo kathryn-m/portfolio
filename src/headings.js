@@ -6,7 +6,7 @@ export default {
 		logo2: "Développeur web front-end",
 		nav1: "Accueil",
 		nav2: "Contact",
-		h1: "Port-feuille",
+		h1: "Portfolio",
 		sortLabel1: "Trier par :",
 		sortLabel2: "Type de projet",
 		sortLabel3: "Langage" ,
