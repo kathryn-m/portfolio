@@ -20,7 +20,7 @@ export default [
 		description: "Un site web publicitaire pour les séjours de préparation des concours en Normandie, France.",
 		proglang: "JavaScript CSS HTML",
 		code: "https://github.com/kathryn-m/revisions_nature",
-		url: "https://grand-camp.com/",
+		url: "https://revisions-nature.onrender.com",
 		image_webp: "/img/revision.webp" ,
 		image: "/img/revision.png" ,
 		alt: "Site web pour les révisions nature"
