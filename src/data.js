@@ -49,18 +49,18 @@ export default [
 		image: "/img/memories.png",
 		alt: "carrousel d'images nostalgiques des repères célèbres"
 	},
-	{
-		id:5,
-		role: "component",
-		title: "L'inspiration",
-		description: "Des citations sur plusieurs sujets, en seulement un clic. L'appli utilise l'API [https://pprathameshmore.github.io/QuoteGarden/]{QuoteGarden.}" ,
-		proglang: "JavaScript CSS HTML",
-		code: "https://github.com/kathryn-m/quote-app",
-		url: "https://kathryn-m.github.io/quote-app/",
-		image_webp: "/img/quotes.webp" ,
-		image: "/img/quotes.png",
-		alt: "l'appli pour trouver les citations inspirants"
-	},
+	// {
+	// 	id:5,
+	// 	role: "component",
+	// 	title: "L'inspiration",
+	// 	description: "Des citations sur plusieurs sujets, en seulement un clic. L'appli utilise l'API [https://pprathameshmore.github.io/QuoteGarden/]{QuoteGarden.}" ,
+	// 	proglang: "JavaScript CSS HTML",
+	// 	code: "https://github.com/kathryn-m/quote-app",
+	// 	url: "https://kathryn-m.github.io/quote-app/",
+	// 	image_webp: "/img/quotes.webp" ,
+	// 	image: "/img/quotes.png",
+	// 	alt: "l'appli pour trouver les citations inspirants"
+	// },
 	{
 		id:6,
 		role: "component",

@@ -49,18 +49,18 @@ export default [
 		image: "/img/memories.png",
 		alt: "nostalgic photo carousel of famous landmarks"
 	},
-	{
-		id:5,
-		role: "component",
-		title: "A pop of inspiration",
-		description: "Quotes on many topics, at the click of a button. The app uses the [https://pprathameshmore.github.io/QuoteGarden/]{QuoteGarden} API." ,
-		proglang: "JavaScript CSS HTML",
-		code: "https://github.com/kathryn-m/quote-app",
-		url: "https://kathryn-m.github.io/quote-app/",
-		image_webp: "/img/quotes.webp" ,
-		image: "/img/quotes.png",
-		alt: "quote-finding application"
-	},
+	// {
+	// 	id:5,
+	// 	role: "component",
+	// 	title: "A pop of inspiration",
+	// 	description: "Quotes on many topics, at the click of a button. The app uses the [https://pprathameshmore.github.io/QuoteGarden/]{QuoteGarden} API." ,
+	// 	proglang: "JavaScript CSS HTML",
+	// 	code: "https://github.com/kathryn-m/quote-app",
+	// 	url: "https://kathryn-m.github.io/quote-app/",
+	// 	image_webp: "/img/quotes.webp" ,
+	// 	image: "/img/quotes.png",
+	// 	alt: "quote-finding application"
+	// },
 	{
 		id:6,
 		role: "component",
