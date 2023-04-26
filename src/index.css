@@ -366,11 +366,16 @@ h3 {
 
 
 .source-code-label,
-.code-link {
+.code-link,
+.code-without-link {
   color: #35322e;
   font-size: .6rem;
   font-weight: 700;
   margin-bottom: .5rem;
+}
+
+.code-without-link {
+  margin-left: auto;
 }
 
 .source-code-label {
@@ -378,14 +383,18 @@ h3 {
   margin-right: .75rem;
 }
 
+.code-without-link,
 .code-link {
   display: block;
   width: min-content;
-  background-color: #F4EBD0;
-  text-decoration: none;
   letter-spacing: 1px;
   word-spacing: 4px;
   border-radius: 4px;
+}
+
+.code-link {
+  background-color: #F4EBD0;
+  text-decoration: none;
 }
 
 .proglang {

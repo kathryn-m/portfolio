@@ -39,7 +39,7 @@ export default function Main (props){
 				cards2.push(card)
 			}
 		}else{
-			if(item.proglang === "React"){
+			if(item.proglang === "React" || item.proglang === "React  ReactRouter"){
 				cards1.push(card)
 			}else if(item.proglang === "JavaScript CSS HTML"){
 				cards2.push(card)

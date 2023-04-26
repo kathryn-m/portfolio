@@ -2,6 +2,18 @@
 
 export default [
 	{
+		id: 0,
+		role: "project",
+		title: "Haldane B. Doyle",
+		description: "A website for the science fiction author Haldane B. Doyle.",
+		proglang: `React  ReactRouter`,
+		code: "",
+		url: "https://haldanebdoyle.com/",
+		image_webp: "/img/hbd1.webp" ,
+		image: "/img/hbd1.png" ,
+		alt: "Haldane B. Doyle author website"
+	},
+	{
 		id: 1,
 		role: "project",
 		title: "Memory card game",
