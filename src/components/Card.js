@@ -17,8 +17,11 @@ export default function Card (props){
 			<div className='content'>
 				<a className="card-title" href={props.url} target="_blank" rel="noreferrer"><h3>{props.title}</h3></a>
 				<div className="code-container flex-row-between-center flex-wrap">
-					<p className="source-code-label">{headings.seeSourceCode} </p>
-					<a className="code-link" href={props.code} target="_blank" rel="noreferrer"><p className="proglang flex-column-center-start">{props.proglang}</p></a>
+					{props.code && <p className="source-code-label">{headings.seeSourceCode} </p>}
+					{props.code? 
+						<a className="code-link" href={props.code} target="_blank" rel="noreferrer"><p className="proglang flex-column-center-start">{props.proglang}</p></a> :
+						<p className="code-without-link proglang">{props.proglang}</p>
+					}
 				</div>
 				{desc}
 			</div>
