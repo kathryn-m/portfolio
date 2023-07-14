@@ -32,7 +32,7 @@ export default [
 		description: "A website for a study retreat in Normandy, France.",
 		proglang: "JavaScript CSS HTML",
 		code: "https://github.com/kathryn-m/revisions_nature",
-		url: "https://grand-camp.com/",
+		url: "https://revisions-nature.onrender.com",
 		image_webp: "/img/revision.webp" ,
 		image: "/img/revision.png" ,
 		alt: "révisions nature website"
