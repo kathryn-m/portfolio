@@ -114,7 +114,8 @@ footer {
 
 .app {
   background: rgb(244,235,208); /* equivalent is #F4EBD0*/
-  background: linear-gradient(0deg, rgba(254,252,247,1) 38%, rgba(244,235,208,1) 91%); 
+  /* background: linear-gradient(0deg, rgba(254,252,247,1) 38%, rgba(244,235,208,1) 91%);  */
+  background: linear-gradient(0deg, rgba(244,235,208,.4) 38%, rgba(244,235,208,1) 91%); 
 }
 
 .main-header {
